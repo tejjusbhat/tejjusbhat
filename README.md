@@ -1,6 +1,6 @@
 # So! You've stumbled upon my GitHub profile somehow! 👀
 
-I dunno if you're here from my [LinkedIn](https://www.linkedin.com/in/tejjusbhat), my [website](https://www.tejjusbhat.com), my [resume](https://drive.google.com/file/d/1jFPUKQqGeqHnNjqmmhZu1CcPKUAkYIem/view), or you searched my name on GitHub (it's not creepy, I've done it too 😅). No matter how you found me—you're welcome! 🎉
+I dont know if you're here from my [LinkedIn](https://www.linkedin.com/in/tejjusbhat), my [website](https://www.tejjusbhat.com), my [resume](https://drive.google.com/file/d/1jFPUKQqGeqHnNjqmmhZu1CcPKUAkYIem/view), or you searched my name on GitHub (it's not creepy, I've done it too 😅). No matter how you found me—you're welcome! 🎉
 
 ## The biggest question! What do I do? 🤔
 
