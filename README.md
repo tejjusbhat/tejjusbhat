@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0708,60:2a0d12,100:5a1520&height=200&section=header&text=Tejjus%20Bhat&fontColor=c9a24a&fontSize=52&fontAlignY=38&desc=R%26D%20Engineer%20%C2%B7%20Data%20Scientist&descAlignY=60&descSize=18" width="100%" alt="Tejjus Bhat" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5a1520,100:0a0708&height=140&text=Tejjus%20Bhat&fontColor=c9a24a&fontSize=50&fontAlignY=50" width="100%" alt="Tejjus Bhat" />
 </p>
+
+<p align="center"><b>R&amp;D Engineer &nbsp;·&nbsp; Data Scientist</b></p>
 
 <p align="center">
   <a href="https://www.tejjusbhat.com">
@@ -109,7 +111,7 @@ Voice-to-voice assistant that reads the user's sentiment and adapts its replies.
   <a href="mailto:tejjusbhat@gmail.com"><img src="https://img.shields.io/badge/Email-5a1520?style=for-the-badge&logo=gmail&logoColor=c9a24a" /></a>
 </p>
 
-<p align="center"><i>Open to collaborations - have something worth building together?</i></p>
+<p align="center"><i>Open to collaborations — have something worth building together?</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tejjusbhat&label=TRAVELLERS&color=5a1520&style=flat-square" />
